@@ -1,5 +1,5 @@
 local self = {
-	getTableAttack = {}; -- таблица хранения , тех кто стрелял в нпс
+	getTableAttack = {};
 }
 
 -- Если по НПС начали стрелять
